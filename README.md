@@ -3,6 +3,7 @@
 - I'm looking to study pharmacy at UNC Chapel Hill in the future
 - I currently have very limited knowlege of code,
 but I am looking forward to learning more
+## Past experiences
 <!--
 **Wide87/Wide87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
