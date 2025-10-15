@@ -6,7 +6,7 @@ but I am looking forward to learning more
 ## Experience
 - I am taking a class on the use of Ai in health sciences
 which discusses the use of python in machine learning
-- I had spent a short time learning from a FRC robotics coder
+- I spent a year with the FRC team Smart #6932
 - I have used many of MIT's introductory python resources
 - I have played with basic java to make simple codes
 <!--
