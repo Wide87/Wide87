@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Joseph B. (Wide87)
-Bassus is a latin adjective meaning short, wide, or low
+*Bassus is a latin adjective meaning short, wide, or low*
 - I'm a student at the North Carolina School of Science and Math
 - I'm looking to study pharmacy at UNC Chapel Hill in the future
 - I currently have very limited knowlege of code,
