@@ -3,7 +3,7 @@
 - I'm looking to study pharmacy at UNC Chapel Hill in the future
 - I currently have very limited knowlege of code,
 but I am looking forward to learning more
-## Experience
+## About
 - I am taking a class on the use of Ai in health sciences
 which discusses the use of python in machine learning
 - I spent a year with the FRC team Smart #6932
