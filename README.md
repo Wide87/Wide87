@@ -1,5 +1,8 @@
-## Hi there 👋
-aa
+## Hi there 👋 I'm Joseph B.
+I'm a student at the North Carolina School of Science and Math
+I'm looking to study pharmacy at UNC Chapel Hill in the future
+I currently have very limited knowlege of code,
+but I am looking forward to learning more
 <!--
 **Wide87/Wide87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
