@@ -5,7 +5,7 @@
 - I currently have very limited knowlege of code,
 but I am looking forward to learning more
 ## About
-- I am taking a class on the use of Ai in health sciences
+- I am taking a class on the use of AI in health and life sciences
 which discusses the use of python in machine learning
 - I spent a year with the FRC team Smart #6932
 - I have used many of MIT's introductory python resources
