@@ -3,7 +3,12 @@
 - I'm looking to study pharmacy at UNC Chapel Hill in the future
 - I currently have very limited knowlege of code,
 but I am looking forward to learning more
-## Past experiences
+## experience
+- I am taking a class on the use of Ai in health sciences
+which discusses the use of python in machine learning
+- I had spent a short time learning from a FRC robotics coder
+- I have used many of MIT's introductory python resources
+- I have played with basic java to make simple codes
 <!--
 **Wide87/Wide87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
